@@ -19,9 +19,9 @@ Project được chạy theo mô hình agile
 
 - Với một ý tưởng về sản phẩm, nó cần chỉ ra được giải quyết được những paint point gì, từ đó có business model hợp lý. Một sản phẩm mới như thời ecommece mới xuất hiện, nó tạo ra mô hình kinh doanh mới. Mô hình này thực sự rất hữu ích với người dùng. Bởi nó cho người ta ngồi ở nhà mà có thể mua được hàng. Tuy nhiên nếu nhìn lại quá trình phát triển của các trang thương mại điện tử lớn thì rõ ràng họ cũng phải đi từng chặng đường một. Có khi cả 5-7 năm đánh đổi. Từ lúc sản phẩm mới hình thành, thay đổi và phát triển không ngừng.
 
-- Sau khi có reqirement hòm hòm, BA sẽ là người chủ trì, vẽ flow nghiệp vụ cho sản phẩm => bước tiếp theo tôi cần làm là vẽ được rõ ràng flow nghiệp vụ, data flow (note ngày 13/06/2020)
+- Sau khi có reqirement hòm hòm, BA sẽ là người chủ trì, vẽ flow nghiệp vụ cho sản phẩm => bước tiếp theo tôi cần làm là vẽ được rõ ràng flow nghiệp vụ, data flow (note ngày 13/06/2020). Cơ bản khi hoàn thành flow nghiệp vụ ta sẽ ra được cái nhìn khá rõ ràng về hệ thống mình đang phát triển
 
-- Tiếp sau flow nghiệp vụ, data flow sẽ là thiết kế tổng quan hệ thống, biểu đồ ER, các service, lưu trữ, tương tác
+- Tiếp sau flow nghiệp vụ, data flow sẽ là thiết kế tổng quan hệ thống, biểu đồ ER, các service (hay nói cách khác là vẽ ra được architechture phù hợp cho hệ thống), lưu trữ, tương tác
 # Requirement
 Người dùng hệ thống: người mua, người bán hàng, người quản lý chiến dịch marketing hệ thống.
 V1 giả sử chưa support việc thanh toán qua ví điện tử, internet banking. Gỉa sử người giao hàng sẽ nhận tiền mặt về giao. Tuy nhiên thiết kế hệ thống cần hướng đến việc thanh toán qua ví điện tử, internet banking.
